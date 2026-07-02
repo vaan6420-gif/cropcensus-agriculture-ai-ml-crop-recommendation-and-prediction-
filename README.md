@@ -95,6 +95,12 @@ crop census system
   ➡️ Predict expected yield.
 
 
+📦 Installation Guide
+
+Download and install XAMPP if you don’t have it.
+Open XAMPP Control Panel and start Apache.
+Move the project to your htdocs folder (usually C:\xampp\htdocs on Windows).
+
 ## 👥 Contributors  
 - **Suman P**  
 - **AI-assisted logic and code development**
