@@ -98,7 +98,7 @@ crop census system
 📦 Installation Guide
 
 Download and install XAMPP if you don’t have it.
-Open XAMPP Control Panel and start Apache.
+Open XAMPP Control Panel, then start Apache and MySQL server .
 Move the project to your htdocs folder (usually C:\xampp\htdocs on Windows).
 
 ## 👥 Contributors  
